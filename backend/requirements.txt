@@ -1,0 +1,14 @@
+langchain
+pypdf
+openai
+chromadb
+tiktoken
+pycryptodome==3.15.0
+janome
+wordcloud
+fastapi
+uvicorn
+gunicorn
+jinja2
+python-multipart
+fastapi-middleware
